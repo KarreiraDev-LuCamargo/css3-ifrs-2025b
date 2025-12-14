@@ -3,7 +3,7 @@ Exercícios do curso “CSS3: Estilizando Páginas Web com Estilo” (IFRS – T
 
 <div align="center">
 
-<img src="assets/img/logo-karreiradev.webp" alt="KarreiraDev | Luciano Camargo" width="180" />
+<img src="./src/assets/img/logo-oficial-kdlc-SF.webp" alt="KarreiraDev | Luciano Camargo" width="180" />
 
 # CSS3: Estilizando Páginas Web com Estilo  
 ### IFRS — Turma 2025B
