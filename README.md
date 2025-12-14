@@ -9,6 +9,13 @@ Exercícios do curso “CSS3: Estilizando Páginas Web com Estilo” (IFRS – T
 ### IFRS — Turma 2025B
 
 Exercícios do curso **CSS3: Estilizando Páginas Web com Estilo** (IFRS – Turma 2025B), incluindo versões originais e projetos clonados para fins de portfólio.
+<br />
+
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="36" />
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="36" />
+<img src="https://cdn.simpleicons.org/fontawesome/528DD7" height="36" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" />
+<img src="https://cdn.simpleicons.org/googlefonts/4285F4" height="36" />
 
 </div>
 
@@ -22,12 +29,35 @@ Este repositório foi criado com **dupla finalidade**:
 - 🚀 **Profissional** — apresentar **versões clonadas e aprimoradas** dos exercícios, com foco em:
   - boas práticas de HTML5 e CSS3
   - organização de código
+  - padronização visual
   - responsividade
-  - experiência do usuário (UX)
+  - experiência do usuário (UX/UI)
 
 Essa separação garante **fidelidade acadêmica** e, ao mesmo tempo, **valorização do portfólio profissional**.
 
 ---
+
+## 🧰 Tecnologias e Bibliotecas
+
+<img src="https://cdn.simpleicons.org/css3/1572B6" height="28" /> **CSS3**  
+Base do curso e foco principal dos exercícios.
+
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="28" /> **Bootstrap**  
+Utilizado de forma controlada nos projetos clonados.
+
+<img src="https://cdn.simpleicons.org/fontawesome/528DD7" height="28" /> **Font Awesome**  
+Biblioteca de ícones vetoriais.
+
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="28" /> **Tailwind CSS**  
+Framework utilitário moderno, aplicado apenas em versões de portfólio.
+
+<img src="https://cdn.simpleicons.org/googlefonts/4285F4" height="28" /> **Google Fonts**  
+Tipografia web para padronização visual e melhor legibilidade.
+
+> ℹ️ **Nota:** O framework **Bulma** não é utilizado, pois não faz parte do escopo e dos padrões adotados pelo IFRS.
+
+---
+
 
 ## 📁 Organização do Projeto
 
