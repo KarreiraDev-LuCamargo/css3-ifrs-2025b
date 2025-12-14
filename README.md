@@ -39,7 +39,7 @@ Essa separação garante **fidelidade acadêmica** e, ao mesmo tempo, **valoriza
 
 ## 🧰 Tecnologias e Bibliotecas
 
-<img src="./src/assets/img/css-3.jpg height="28" /> **CSS3**  
+<img src="./src/assets/img/css-3.jpg" height="28" /> **CSS3**  
 Base do curso e foco principal dos exercícios.
 
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="28" /> **Bootstrap**  
