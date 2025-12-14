@@ -11,7 +11,7 @@ Exercícios do curso “CSS3: Estilizando Páginas Web com Estilo” (IFRS – T
 Exercícios do curso **CSS3: Estilizando Páginas Web com Estilo** (IFRS – Turma 2025B), incluindo versões originais e projetos clonados para fins de portfólio.
 <br />
 
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="36" />
+<img src="/src/assets/img/css-3.jpg" height="36" />
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="36" />
 <img src="https://cdn.simpleicons.org/fontawesome/528DD7" height="36" />
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" />
@@ -39,7 +39,7 @@ Essa separação garante **fidelidade acadêmica** e, ao mesmo tempo, **valoriza
 
 ## 🧰 Tecnologias e Bibliotecas
 
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="28" /> **CSS3**  
+<img src="./src/assets/img/css-3.jpg height="28" /> **CSS3**  
 Base do curso e foco principal dos exercícios.
 
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="28" /> **Bootstrap**  
